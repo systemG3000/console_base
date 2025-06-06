@@ -1,0 +1,6 @@
+{
+    "log_file_name": "status_log.txt",
+    "log_everything": true,
+    "log_level": 3,
+    "window_geometry": "800x706+2843+196"
+}
